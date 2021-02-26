@@ -1,2 +1,3 @@
 # Coursera_Capstone
-Capstone Project Notebook
+
+Peer-graded Assignment for week 1 - Introduction to the Capstone
