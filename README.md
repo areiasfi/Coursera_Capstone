@@ -1,3 +1,3 @@
-# Coursera_Capstone
+# IBM data science course_Capstone
 
-Peer-graded Assignment for week 1 - Introduction to the Capstone
+Peer-graded Assignment Segmenting_and_Clustering_Neighborhoods_in_Toronto
